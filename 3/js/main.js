@@ -18,3 +18,6 @@ console.log(Math.floor(pi))
 
 // power
 console.log(Math.pow(2,3))
+
+// returns random number from 0 - 1
+console.log(Math.random())
